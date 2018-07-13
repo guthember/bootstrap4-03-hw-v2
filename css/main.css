@@ -1,9 +1,9 @@
 .nav-right-margin {
-  margin-right: 100px;
+  margin-right: 300px;
 }
 
-.navbar-brand-left-margin {
-  margin-left: 100px;
+.img-brand-left-margin {
+  margin-left: 200px;
 }
 
 .jumbotron-colors {
@@ -12,5 +12,30 @@
 }
 
 .main-h-font {
+  font-size: 2rem;
+}
+
+.oders-font {
   font-size: 1.2rem;
+}
+
+.btn-order {
+  background-color: #17A2B8;
+  color: white;
+}
+
+.btn-order:hover {
+  background-color: #37C2D8;
+  color: black;
+}
+
+.image-holder {
+  background-color: #17A2B8;
+  width: 150px;
+  height: 150px;
+  margin-bottom: 16px;
+}
+
+.recipe-img {
+  transform: scale(0.8,0.8);
 }
